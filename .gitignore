@@ -1,5 +1,10 @@
 __pycache__/
 *.xlsx
 *.xls
+*.xlsm
 *.csv
 .venv/
+output/
+dist/
+build/
+*.spec
